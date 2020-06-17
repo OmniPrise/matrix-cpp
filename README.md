@@ -12,6 +12,6 @@ The C++ Matrix library provides methods for manipulating matricies and solvers f
 * Note: SVD and other algorithms that use \epsilon are not properly implemented and should be corrected
 
 # Motivation
-The original C++ Matrix library was written in an attempt to better understand "Numerical accuracy of statistical algorithms for microsomputers", Lesage and Simon, 1985.  The code was implemented using "Matrix Computations" Third Edition, Golub and Van Loan, 1996.  Indeed, the wamplerTest.cpp is code written to produce results from the Lesage and Simon paper.
+The original C++ Matrix library was written in an attempt to better understand "Numerical accuracy of statistical algorithms for microcomputers", Lesage and Simon, 1985.  The code was implemented using "Matrix Computations" Third Edition, Golub and Van Loan, 1996.  Indeed, the wamplerTest.cpp is code written to produce results from the Lesage and Simon paper.
 
 
